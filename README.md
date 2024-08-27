@@ -53,7 +53,8 @@ Here are some screenshots showcasing different parts of the application:
 
 Check out the live demo of the application in action:
 
-[Demo Video](<a href=https://www.linkedin.com/feed/update/urn:li:activity:7233512069298352129/ />)
+[Demo Video] 
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7233512069298352129/"/>
 
 ## Installation
 
